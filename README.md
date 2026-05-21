@@ -4,6 +4,9 @@
 <h3 align="center"> Aspiring DevOps Engineer </h3>
 <p align="center"><i>From QA Tester to DevOps Engineer — enabling scalable and efficient cloud automation</i></p>
 
+<p align="center">https://github.com/Sushil1234567/github_Action_Practise/actions/workflows/docker-publish.yml/badge.svg</p>
+
+
 ---
 
 ## About Me
